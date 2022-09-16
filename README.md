@@ -4,4 +4,14 @@ Git &amp; Github
 
 ### Cli Commands
 
-``` cd nama_folder ```
+perintah membuka folder ```cd```
+``` 
+cd nama_folder
+```
+
+perintah membuat folder baru dengan ```mkdir```
+```
+mkdir nama_folder
+```
+
+
